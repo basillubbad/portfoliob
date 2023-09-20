@@ -1,6 +1,15 @@
+@font-face {
+    font-family: "arabbook";
+    src: url("../fonts/LamaSans-Bold.ttf");
+  }
+  @font-face {
+    font-family: "arabbold";
+    src: url("../fonts/LamaSans-Black.ttf");
+  }
 *{
     padding: 0;
     margin: 0; 
+    font-family:'arabbook' ;
 }
 body{
     width: 100%;
